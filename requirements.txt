@@ -1,0 +1,4 @@
+Flask 
+pandas 
+pywin32 
+openpyxl
